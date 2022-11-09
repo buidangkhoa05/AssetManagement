@@ -2,4 +2,4 @@
 This is a CRUD Console Program, written with OOP design.
 Data in program which is stored at file text.
 Program is help to manage borrow asset list.
-Uer login with admin role can CRUD asset and approve for request borrow asset from employee. Employee can sent request to borrow asset.
+Uer login with manager role can CRUD asset list and approve for request borrow asset from employee. Employee role can sent request to borrow asset.
